@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         System.loadLibrary("androidgame");
     }
 
-
     private ActivityMainBinding binding;
 
     @Override
